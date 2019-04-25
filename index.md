@@ -1,2 +1,2 @@
-# AR Test
-View Web site [here] (testweb1.html)!
+# AR Library
+This is a website for an AR library! You can view it [here] (testweb1.html)
